@@ -2,29 +2,9 @@
 
 12 March 2012
 
+Original Author :
 *Ken Jones*, +<ken@marakana.com>+
 http://marakana.com[Marakana, Inc.]
 
-== Obtaining Course Materials
 
-. Using Git from Ken's local system:
-+
-	git clone http://10.53.83.89/bootcamp.git
-
-. Using Git from GitHub:
-+
-	git clone git://github.com/marakana/bootcamp-2012-03-12.git
-
-. Downloading a Zip archive from GitHub
-+
-	http://github.com/marakana/bootcamp-2012-03-12
-
-. Copying files individually from Ken's local system:
-+
-	http://10.53.83.89/bootcamp
-
-== Useful Links
-
-Generating app icons: http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html[Android Asset Studio]
-
-Encrypting preference items: http://stackoverflow.com/questions/5858790/process-the-value-of-preference-before-save-in-android
+Forked by Varuna Lekamwasam <vrlekamwasam@gmail.com>
